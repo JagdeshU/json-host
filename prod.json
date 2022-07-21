@@ -42,7 +42,7 @@
     "http"
   ],
   "paths": {
-    "/pet/{petId}/uploadImage": {
+    "/pet/{petId}/downloadImage": {
       "post": {
         "tags": [
           "pet"
@@ -186,7 +186,7 @@
         ]
       }
     },
-    "/pet/findByStatus": {
+    "/pet/findByState": {
       "get": {
         "tags": [
           "pet"
@@ -540,7 +540,7 @@
         }
       }
     },
-    "/store/inventory": {
+    "/store/inventory/{id}": {
       "get": {
         "tags": [
           "store"
@@ -571,7 +571,7 @@
         ]
       }
     },
-    "/user/createWithArray": {
+    "/user/createWithArrayList": {
       "post": {
         "tags": [
           "user"
@@ -823,7 +823,7 @@
         }
       }
     },
-    "/user": {
+    "/users": {
       "post": {
         "tags": [
           "user"
