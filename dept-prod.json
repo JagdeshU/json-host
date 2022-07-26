@@ -12,7 +12,7 @@
     }
   ],
   "paths": {
-    "/api/v1/workers/{id}": {
+    "/api/v1/employees/{id}": {
       "get": {
         "tags": [
           "employee-controller"
@@ -114,7 +114,7 @@
         }
       }
     },
-    "/api/v1/employee": {
+    "/api/v1/workkkkk": {
       "post": {
         "tags": [
           "employee-controller"
@@ -145,7 +145,7 @@
         }
       }
     },
-    "/api/v1/employees": {
+    "/api/v1/workkkkk": {
       "get": {
         "tags": [
           "employee-controller"
