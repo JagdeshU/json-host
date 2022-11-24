@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "timestamp": "2022-11-21T10:32:58Z",
+    "llRevId": "2022-11-21T10:32:58.+0000:evorder-qa-service:qa"
+  },
+  "aggregateResponseBody": {
+    "processThreeResultsList": [
+      {
+        "genId": "88b070b0-6be1-11ed-a1eb-0242ac120002",
+        "genType": "Order_Placed_CRS_Logistics",
+        "genNumber": "100378805",
+        "genCode": "X216659",
+        "genStatus": "SUCCESS",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Apple Iphone X\"}}",
+        "aggInput": "REQUEST",
+        "timeStamp": "2022-11-21 10:02:13.60"
+      },
+      {
+        "genId": "qqqq70b0-6be1-11ed-a1eb-0242ac120002",
+        "genType": "Order_Placed_ABC_Logistics",
+        "genNumber": "100378805",
+        "genCode": "X216659",
+        "genStatus": "SUCCESS",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Oneplus Brrrr\"}}",
+        "aggInput": "RESPONSE",
+        "timeStamp": "2022-11-21 10:02:13.60"
+      }
+    ]
+  }
+}
