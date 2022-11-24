@@ -19,7 +19,43 @@
         "genName": "EvOrder_Write_ProcessOne",
         "genNumber": "100378805",
         "genCode": "X216659",
+        "genStatus": "SUCCESS",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
+        "timeStamp": "2022-11-21 10:01:28.45"
+      },
+      {
+        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
+        "genName": "EvOrder_Write_ProcessOne",
+        "genNumber": "100378805",
+        "genCode": "X216659",
         "genStatus": "FAILURE",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
+        "timeStamp": "2022-11-21 10:01:28.45"
+      },
+      {
+        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
+        "genName": "EvOrder_Write_ProcessOne",
+        "genNumber": "100378805",
+        "genCode": "X216659",
+        "genStatus": "FAILURE",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
+        "timeStamp": "2022-11-21 10:01:28.45"
+      },
+      {
+        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
+        "genName": "EvOrder_Write_ProcessOne",
+        "genNumber": "100378805",
+        "genCode": "X216659",
+        "genStatus": "SUCCESS",
+        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
+        "timeStamp": "2022-11-21 10:01:28.45"
+      },
+      {
+        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
+        "genName": "EvOrder_Write_ProcessOne",
+        "genNumber": "100378805",
+        "genCode": "X216659",
+        "genStatus": "SUCCESS",
         "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
         "timeStamp": "2022-11-21 10:01:28.45"
       },
@@ -82,7 +118,7 @@
         "genName": "EvOrder_Write_ProcessOne",
         "genNumber": "100378805",
         "genCode": "X216659",
-        "genStatus": "FAILURE",
+        "genStatus": "SUCCESS",
         "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
         "timeStamp": "2022-11-21 10:01:28.45"
       },
@@ -100,43 +136,7 @@
         "genName": "EvOrder_Write_ProcessOne",
         "genNumber": "100378805",
         "genCode": "X216659",
-        "genStatus": "FAILURE",
-        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
-        "timeStamp": "2022-11-21 10:01:28.45"
-      },
-      {
-        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
-        "genName": "EvOrder_Write_ProcessOne",
-        "genNumber": "100378805",
-        "genCode": "X216659",
-        "genStatus": "FAILURE",
-        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
-        "timeStamp": "2022-11-21 10:01:28.45"
-      },
-      {
-        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
-        "genName": "EvOrder_Write_ProcessOne",
-        "genNumber": "100378805",
-        "genCode": "X216659",
-        "genStatus": "FAILURE",
-        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
-        "timeStamp": "2022-11-21 10:01:28.45"
-      },
-      {
-        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
-        "genName": "EvOrder_Write_ProcessOne",
-        "genNumber": "100378805",
-        "genCode": "X216659",
-        "genStatus": "FAILURE",
-        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
-        "timeStamp": "2022-11-21 10:01:28.45"
-      },
-      {
-        "genId": "xyz070b0-xyz1-11ed-a1eb-0242ac120002",
-        "genName": "EvOrder_Write_ProcessOne",
-        "genNumber": "100378805",
-        "genCode": "X216659",
-        "genStatus": "FAILURE",
+        "genStatus": "SUCCESS",
         "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
         "timeStamp": "2022-11-21 10:01:28.45"
       }
