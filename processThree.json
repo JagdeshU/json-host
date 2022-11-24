@@ -20,7 +20,7 @@
         "genType": "Order_Placed_ABC_Logistics",
         "genNumber": "100378805",
         "genCode": "X216659",
-        "genStatus": "SUCCESS",
+        "genStatus": "FAILURE",
         "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Oneplus Brrrr\"}}",
         "aggInput": "RESPONSE",
         "timeStamp": "2022-11-21 10:02:13.60"

@@ -19,7 +19,7 @@
         "genName": "EvOrder_Write_ProcessOne",
         "genNumber": "100378805",
         "genCode": "X216659",
-        "genStatus": "SUCCESS",
+        "genStatus": "FAILURE",
         "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Redmi psss\"}}",
         "timeStamp": "2022-11-21 10:01:28.45"
       }
