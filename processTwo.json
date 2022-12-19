@@ -11,7 +11,7 @@
         "genNumber": "100378805",
         "genCode": "X216659",
         "genStatus": "SUCCESS",
-        "genResultsObj": "{\"meta\":null,\"aggregateResponseBody\":{\"genName\":\"EvOrder_Write_ProcessOne\",\"name\":\"Mi Boom\"}}",
+        "genResultsObj": "[{\"tableName\":\"rev_part\", \"mismatchedColumns\":1,\"identifiedBy\":{\"GEN_NUM \":\"7448464\",\"GEN_CODE\":\"02D6859\"},\"differences\":{\"check_reasons\":{\"value1\":null,\"value2\":\"xxxxxxxxxxxxxx\",\"desc":\"Live column is null/contains no data\",\"missingorBlank\":false}},\"missingColumns\":null},{\"tableName\":\"part_recycle\",\"queryId\":\"8819\",\"mismatchedColumns\":3,\"identifiedBy\":{\"GEN_NUM\":\"7448464\",\"GEN_CODE\":\"02D6859\"},\"differences\":{\"recovery_flag\": {\"value1\":null,\"value2\":\"N\",\"desc\":\"Live column is null/contains no data\",\"missingOrBlank\":false},\"rec_date\":{\"value1\":\"10/05/2022\",\"value2\":null,\"desc\":\"Pdb column is null/contains no data\",missingOrBlank\":true},\"rec_value\":{\"value1\":null,\"value2\":\"0\", \"desc\":\"Live column is null/contains no data\",\"missingOrBlank\":false}},\"missingColumns\":[\"item_id\"]}]",
         "timeStamp": "2022-11-21 10:01:28.45"
       },
       {
